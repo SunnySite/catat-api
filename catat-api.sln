@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Service-Auth", "API-Service-Auth\API-Service-Auth.csproj", "{2A1F53D7-9CF3-462C-AB25-86E000FC05E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "catat.utility", "catat.utility\catat.utility.csproj", "{EC6C3AE5-E553-42C7-9494-6244495E9485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A1F53D7-9CF3-462C-AB25-86E000FC05E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1F53D7-9CF3-462C-AB25-86E000FC05E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1F53D7-9CF3-462C-AB25-86E000FC05E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1F53D7-9CF3-462C-AB25-86E000FC05E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6C3AE5-E553-42C7-9494-6244495E9485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6C3AE5-E553-42C7-9494-6244495E9485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6C3AE5-E553-42C7-9494-6244495E9485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6C3AE5-E553-42C7-9494-6244495E9485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AC3CDE6-7DF0-4C4A-8B38-9827EE60637E}
+	EndGlobalSection
+EndGlobal
